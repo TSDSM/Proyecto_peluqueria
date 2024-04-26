@@ -29,3 +29,43 @@ body {
     flex-direction: column;
     gap:50px;
 }
+
+.box-info > h1 {
+    text-align:center;
+    letter-spacing: 5px;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.data > p {
+    font-size: 1rem;
+}
+.data > p > i {
+    color: crimson;
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.links {
+    display:flex;
+    gap:15px;
+}
+
+.links > a {
+    text-decoration: none;
+    width:40px;
+    height:40px;
+    background: crimson;
+    text-align: center;
+    transition:.1s
+}
+
+.links > a > i {
+    color:#fff;
+    line-height: 40px;
+    font-size: 20px;
+}
