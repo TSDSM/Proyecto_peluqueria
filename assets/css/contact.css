@@ -46,7 +46,7 @@ body {
     font-size: 1rem;
 }
 .data > p > i {
-    color: #fcac03;
+    color: #ffb826;
     margin-right: 10px;
     font-size: 25px;
 }
@@ -59,7 +59,7 @@ body {
     text-decoration: none;
     width:40px;
     height:40px;
-    background: #fcac03;
+    background: #ffb826;
     border-radius: 150px;
     text-align: center;
     transition:.1s;
@@ -96,7 +96,7 @@ form {
 
 .input-box > input:focus,
 .input-box > textarea:focus {
-    border-bottom: 3px solid #fcac03;
+    border-bottom: 3px solid #ffb826;
     animation: shake .2s;
 }
 
@@ -127,12 +127,12 @@ form {
 }
 
 .input-box > input:focus ~ i {
-    color: #fcac03;
+    color: #ffb826;
 }
 
 form > button {
     width: 100%;
-    background-color: #fcac03;
+    background-color: #ffb826;
     color: #fff;
     border: none;
     outline: none;

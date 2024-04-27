@@ -34,7 +34,7 @@
 
 .about-us h3 {
     font-size: 22px;
-    color: #d89608;
+    color: #ffb826;
     margin-bottom: 8px;
 }
 
@@ -65,7 +65,7 @@
     border-radius: 50%;
     margin-right: 10px;
     color: #fff;
-    background-color: #fcac03;
+    background-color: #ffb826;
     box-shadow: 0 2px 5p rgba(0,0,0,0.3);
     transition: all 0.4s ease;
 }
@@ -83,7 +83,7 @@
     font-weight: bold;
     text-transform: uppercase;
     border-radius: 5px;
-    background-color: #fcac03;
+    background-color: #ffb826;
     box-shadow: 0 2px 5p rgba(0,0,0,0.3);
     transition: all 0.4s ease;
 }
@@ -95,7 +95,7 @@
 .about-item {
     margin-bottom: 20px;
     margin-top: 20px;
-    background-color: #fcac03;
+    background-color: #ffb826;
     padding: 80px,30px;
     box-shadow: 0 0 9px rgba(0,0,0 .6);
 }
