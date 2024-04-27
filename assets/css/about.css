@@ -29,19 +29,19 @@
 .about-us h2 {
     font-size: 45px;
     margin-bottom: 20px;
-    color: #333;
+    color: #fff;
 }
 
 .about-us h3 {
     font-size: 22px;
-    color:#888;
+    color: #d89608;
     margin-bottom: 8px;
 }
 
 .about-us p {
     font-size: 18px;
     line-height: 1.5;
-    color: #333;
+    color: #fff;
     margin-bottom: 20px;
 }
 
@@ -90,4 +90,31 @@
 
 .btn:hover {
     transform: translateY(-3px);
+}
+
+@media screen and (max-width: 768px){
+    .row {
+        flex-direction: column;
+    }
+    .flex {
+        max-width: 100%;
+    }
+    .about-us h2 {
+        font-size: 31px;
+    }
+    .about-us p{
+        font-size: 16px;
+    }
+    .social-links a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 14px;
+        margin-right: 5px;
+    }
+    .btn{
+        font-size: 16px;
+        padding:8px 16px;
+        margin-bottom: 30px;
+    }
 }
