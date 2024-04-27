@@ -92,6 +92,13 @@
     transform: translateY(-3px);
 }
 
+.about-two h1 {
+    display: flex;
+    color: #ffb826;
+    background-color: #161313;
+    justify-content: center;
+}
+
 .about-item {
     margin-bottom: 20px;
     margin-top: 20px;
