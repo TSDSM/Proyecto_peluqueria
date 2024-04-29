@@ -5,3 +5,10 @@ body{
     object-fit: cover;
     background-attachment: fixed;
 }
+
+.swiper .swiper-slide{
+    background-position: center;
+    background-size: cover;
+    width: 350px;
+    height: 350px;
+}
