@@ -1,0 +1,35 @@
+body{
+    background:url(../img/bgServ.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.card-img-top{
+    border-radius: 50px;
+    padding: 20px;
+}
+.card{
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px;
+}
+.card-body{
+    padding: 25px;
+    margin-top: -15px;
+}
+.btn-primary{
+    border-radius: 50px;
+    width: 120px;
+}
+.btn-primary:hover{
+    background-color: rgb(224, 172, 0);
+    border: none;
+}
+h3,h5{
+    color: rgb(255, 255, 255);
+}
+
+.card img{
+    width: 345px;
+    height: 215px;
+    object-fit: cover;
+}
